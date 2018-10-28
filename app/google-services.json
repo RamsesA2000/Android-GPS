@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "491162845772",
+    "firebase_url": "https://good-driving.firebaseio.com",
+    "project_id": "good-driving",
+    "storage_bucket": "good-driving.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491162845772:android:31dc96e504145bd0",
+        "android_client_info": {
+          "package_name": "com.example.ramse.gps2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491162845772-g83kbd94urtiq5k7e3ts6e44vp8deol0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwkDlLEf6cXlv2YgVUBOw-L4UrSua2BEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

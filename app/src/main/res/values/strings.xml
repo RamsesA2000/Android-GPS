@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">GPS2</string>
+    <string name="app_name">Good Driving</string>
+    <string name="default_web_client_id">AIzaSyCdkha5lreXR4LKQGPeBywyXIsLYa2_81U</string>
 </resources>
